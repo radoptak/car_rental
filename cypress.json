@@ -1,0 +1,7 @@
+{
+    "baseUrl": "http://qalab.pl.tivixlabs.com/",
+    "ignoreTestFiles": "**/examples/*",
+    "viewportHeight": 786,
+    "viewportWidth": 1024,
+    "testFiles": "**/*.feature"
+}
