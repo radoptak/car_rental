@@ -24,4 +24,4 @@
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
 
-import 'cypress-shadow-dom';
+import "cypress-shadow-dom";
